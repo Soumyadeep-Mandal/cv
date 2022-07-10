@@ -17,9 +17,15 @@ img {
   width: 150px;
 }
 h1{
-  color: #8879B0;
-  font-family: Copperplate, Papyrus, fantasy;
+  color: #66BFBF;
+
 }
 h3{
   color: #66BFBF;
+}
+
+
+#heading{
+  font-family: Copperplate, Papyrus, fantasy;
+  color: #8879B0;
 }
