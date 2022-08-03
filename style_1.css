@@ -1,0 +1,31 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #9CB4CC;
+  border-width: 4px;
+  width: 5%;
+
+  border-radius: 150px;
+}
+
+img {
+  height: 150px;
+  width: 150px;
+}
+h1{
+  color: #66BFBF;
+
+}
+h3{
+  color: #66BFBF;
+}
+
+
+#heading{
+  font-family: Copperplate, Papyrus, fantasy;
+  color: #8879B0;
+}
